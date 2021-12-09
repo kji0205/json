@@ -1,0 +1,50 @@
+[
+  {
+    "no": 1,
+    "name": "엘",
+    "nameEng": "El",
+    "level": "11",
+    "imageSrc": "",
+    "option": {
+      "weapon": "+50 공격등급, +1 시야증가",
+      "defence": "+15 방어, +1 시야"
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 0,
+      "runeCount": 0,
+      "jewel": ""
+    }
+  },
+  {
+    "no": 2,
+    "name": "엘드",
+    "nameEng": "Eld",
+    "level": "11",
+    "imageSrc": "",
+    "option": "",
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 0,
+      "runeCount": 0,
+      "jewel": ""
+    }
+  },
+  {
+    "no": 0,
+    "name": "",
+    "nameEng": "",
+    "level": "",
+    "imageSrc": "",
+    "option": "",
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 0,
+      "runeCount": 0,
+      "jewel": ""
+    }
+  },
+]
