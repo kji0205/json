@@ -13,8 +13,9 @@
     "dropArea": "",
     "upgrade": {
       "runeNo": 0,
-      "runeCount": 0,
-      "jewel": ""
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
     }
   },
   {
@@ -23,28 +24,606 @@
     "nameEng": "Eld",
     "level": "11",
     "imageSrc": "",
-    "option": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
     "dropRate": 0.0,
     "dropArea": "",
     "upgrade": {
-      "runeNo": 0,
-      "runeCount": 0,
-      "jewel": ""
+      "runeNo": 1,
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
     }
   },
   {
-    "no": 0,
-    "name": "",
-    "nameEng": "",
-    "level": "",
+    "no": 3,
+    "name": "티르",
+    "nameEng": "Tir",
+    "level": "13",
     "imageSrc": "",
-    "option": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
     "dropRate": 0.0,
     "dropArea": "",
     "upgrade": {
-      "runeNo": 0,
-      "runeCount": 0,
-      "jewel": ""
+      "runeNo": 2,
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
     }
   },
+  {
+    "no": 4,
+    "name": "네프",
+    "nameEng": "Nef",
+    "level": "13",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 3,
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 5,
+    "name": "에드",
+    "nameEng": "Eth",
+    "level": "15",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 4,
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 6,
+    "name": "아이드",
+    "nameEng": "Ith",
+    "level": "15",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 5,
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 7,
+    "name": "탈",
+    "nameEng": "Tal",
+    "level": "17",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 6,
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 8,
+    "name": "랄",
+    "nameEng": "Ral",
+    "level": "19",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 7,
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 9,
+    "name": "오르트",
+    "nameEng": "Ort",
+    "level": "21",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 8,
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 10,
+    "name": "주울",
+    "nameEng": "Thul",
+    "level": "23",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 9,
+      "numberOfRunesRequired": 3,
+      "gem": "",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 11,
+    "name": "앰",
+    "nameEng": "Amn",
+    "level": "25",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 10,
+      "numberOfRunesRequired": 3,
+      "gem": "최하급 토파즈",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 12,
+    "name": "솔",
+    "nameEng": "Sol",
+    "level": "27",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 11,
+      "numberOfRunesRequired": 3,
+      "gem": "최하급 자수정",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 13,
+    "name": "샤엘",
+    "nameEng": "Shael",
+    "level": "29",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 12,
+      "numberOfRunesRequired": 3,
+      "gem": "최하급 사파이어",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 14,
+    "name": "돌",
+    "nameEng": "Dol",
+    "level": 31,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 13,
+      "numberOfRunesRequired": 3,
+      "gem": "최하급 루비",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 15,
+    "name": "헬",
+    "nameEng": "Hel",
+    "level": 0,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 14,
+      "numberOfRunesRequired": 3,
+      "gem": "최하급 에메랄드",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 16,
+    "name": "아이오",
+    "nameEng": "Io",
+    "level": "35",
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 15,
+      "numberOfRunesRequired": 3,
+      "gem": "최하급 다이아몬드",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 17,
+    "name": "룸",
+    "nameEng": "Lum",
+    "level": 37,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 16,
+      "numberOfRunesRequired": 3,
+      "gem": "하급 토파즈",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 18,
+    "name": "코",
+    "nameEng": "Ko",
+    "level": 39,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 17,
+      "numberOfRunesRequired": 3,
+      "gem": "하급 자수정",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 19,
+    "name": "팔",
+    "nameEng": "Fal",
+    "level": 41,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 18,
+      "numberOfRunesRequired": 3,
+      "gem": "하급 사파이어",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 20,
+    "name": "렘",
+    "nameEng": "Lem",
+    "level": 43,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 19,
+      "numberOfRunesRequired": 3,
+      "gem": "하급 루비",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 21,
+    "name": "풀",
+    "nameEng": "Pul",
+    "level": 45,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 20,
+      "numberOfRunesRequired": 3,
+      "gem": "하급 에메랄드",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 22,
+    "name": "움",
+    "nameEng": "Um",
+    "level": 47,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 21,
+      "numberOfRunesRequired": 2,
+      "gem": "하급 다이아몬드",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 23,
+    "name": "말",
+    "nameEng": "Mal",
+    "level": 49,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 22,
+      "numberOfRunesRequired": 2,
+      "gem": "토파즈",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 24,
+    "name": "아이스트",
+    "nameEng": "Ist",
+    "level": 51,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 23,
+      "numberOfRunesRequired": 2,
+      "gem": "자수정",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 25,
+    "name": "굴",
+    "nameEng": "Gul",
+    "level": 53,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 24,
+      "numberOfRunesRequired": 2,
+      "gem": "사파이어",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 26,
+    "name": "벡스",
+    "nameEng": "Vex",
+    "level": 55,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 25,
+      "numberOfRunesRequired": 2,
+      "gem": "루비",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 27,
+    "name": "오움",
+    "nameEng": "Ohm",
+    "level": 57,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 26,
+      "numberOfRunesRequired": 2,
+      "gem": "에메랄드",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 28,
+    "name": "로",
+    "nameEng": "Lo",
+    "level": 59,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 27,
+      "numberOfRunesRequired": 2,
+      "gem": "다이아몬드",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 29,
+    "name": "수르",
+    "nameEng": "Sur",
+    "level": 61,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 28,
+      "numberOfRunesRequired": 2,
+      "gem": "상급 토파즈",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 30,
+    "name": "베르",
+    "nameEng": "Ber",
+    "level": 63,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 29,
+      "numberOfRunesRequired": 2,
+      "gem": "상급 자수정",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 31,
+    "name": "자",
+    "nameEng": "Jah",
+    "level": 65,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 30,
+      "numberOfRunesRequired": 2,
+      "gem": "상급 사파이어",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 32,
+    "name": "참",
+    "nameEng": "Cham",
+    "level": 67,
+    "imageSrc": "",
+    "option": {
+      "weapon": "",
+      "defence": ""
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 31,
+      "numberOfRunesRequired": 2,
+      "gem": "상급 루비",
+      "method": "cube combination"
+    }
+  },
+  {
+    "no": 33,
+    "name": "조드",
+    "nameEng": "Zod",
+    "level": 69,
+    "imageSrc": "",
+    "option": {
+      "weapon": "파괴안됨",
+      "defence": "파괴안됨"
+    },
+    "dropRate": 0.0,
+    "dropArea": "",
+    "upgrade": {
+      "runeNo": 32,
+      "numberOfRunesRequired": 2,
+      "gem": "상급 에메랄드",
+      "method": "cube combination"
+    }
+  }
 ]
